@@ -8,4 +8,8 @@ Through the use of Unity by the end of the year me and my team wish to achieve t
 
 *QA Analyst: Robbie Hutchings, spectreseldom, [Digital Portfolio](https://codermerlin.academy/users/william-hutchings/Digital%20Portfolio/index.html)
 
-*Project Manager: Isaac Pandyan, IsaacDaKing, [Digital Portfolio](https://www.codermerlin.com/users/isaac-pandyan/Digital%20Portfolio/index.html)
+*Project Manager: Isaac Pandyan, IsaacDaKing, [Digital Portfolio](https://www.codermerlin.com/users/isaac-pandyan/Digital%20Portfolio/index.html
+
+*UI/UX Designer: Tahmid Rahman, TahmidR2456, [Digital Portfolio](https://www.codermerlin.com/users/tahmid-rahman/Digital%20Portfolio/index.html
+
+
