@@ -6,6 +6,6 @@ Through the use of Unity by the end of the year me and my team wish to achieve t
 
 *Release Manager: Benjamin Haines, Neb-Seniah, https://codermerlin.academy/users/benjamin-haines/Digital%20Portfolio/index.html
 
-*QA Analyst: Robbie Hutchings, Spectreseldom, https://codermerlin.academy/users/william-hutchings/Digital%20Portfolio/index.html
+*QA Analyst: Robbie Hutchings, spectreseldom, https://codermerlin.academy/users/william-hutchings/Digital%20Portfolio/index.html
 
 *Project Manager: Isaac Pandyan, IsaacDaKing, https://www.codermerlin.com/users/isaac-pandyan/Digital%20Portfolio/index.html
