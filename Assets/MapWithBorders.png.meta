@@ -1,0 +1,1570 @@
+fileFormatVersion: 2
+guid: a9e918c774ad95a4998194da99664f0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapWithBorders_0
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3753
+        width: 275
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4539de603e130ac49b22705fdfd3b70c
+      internalID: -1411222617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_1
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 4875
+        width: 190
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a51f9ca44bcb46832d013ee5234c2
+      internalID: -682555213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_2
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 4838
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632da521c2060e144b3b1d0e7432aafe
+      internalID: -791346431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_3
+      rect:
+        serializedVersion: 2
+        x: 5357
+        y: 4733
+        width: 441
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d887df819943814884ed8b7da950bdd
+      internalID: 1804685829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_4
+      rect:
+        serializedVersion: 2
+        x: 5882
+        y: 4718
+        width: 859
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5e9eb8146eab47a96db4e648c647a
+      internalID: 629672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_5
+      rect:
+        serializedVersion: 2
+        x: 7015
+        y: 4565
+        width: 446
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced3a647c76a03a4cb4062ec487359db
+      internalID: 904388744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3173
+        width: 448
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840e12cf26f2e741b65cb3c73d77eb5
+      internalID: -1397455783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_7
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 4474
+        width: 248
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5386d5ec826014d876a106a354d14c
+      internalID: 833050774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_8
+      rect:
+        serializedVersion: 2
+        x: 4953
+        y: 4281
+        width: 433
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f83da6e02ad0d4c912d484d3056496
+      internalID: -1084402085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_9
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 4201
+        width: 334
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acff7acb02885648af87139746d0763
+      internalID: -1830777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_10
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 4299
+        width: 397
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417c05f106078445a162cd4d3710e3c
+      internalID: -1269016522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_11
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 4216
+        width: 189
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803dbb858ae1bbf4face4d7444f86f9c
+      internalID: -1175163545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_12
+      rect:
+        serializedVersion: 2
+        x: 7106
+        y: 3968
+        width: 258
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b8a626994c8240aa1ac59e41737dc
+      internalID: -1009372254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_13
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 3877
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47623027fa734c8478848a032d1f38b6
+      internalID: 1107048954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_14
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 3851
+        width: 342
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe828e5cee686448c2c494917ab659
+      internalID: 1805024904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_15
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 3789
+        width: 269
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631f88994559a749a6042bcf0b50912
+      internalID: 1185151973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_16
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 3760
+        width: 379
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e939112e89d8408998d5691ebfec6
+      internalID: -2097139081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_17
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 3450
+        width: 740
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092515da3724edc4480f0d387e0d9104
+      internalID: 2010926976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_18
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3611
+        width: 204
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb7c5b12771514b866d238437a8927
+      internalID: -99793477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_19
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 3684
+        width: 149
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ab53d13dc89149a6c2c8ba6b8ca22
+      internalID: 1612795692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_20
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 3545
+        width: 163
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e6f5d6a06ed54882ee539a9f91451
+      internalID: 1473696327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_21
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 3571
+        width: 128
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbcde48b8f86804f82bac22cefdd5eb
+      internalID: 1989796547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_22
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 3626
+        width: 215
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cacb14fb66b19e488b9493dbe559c89
+      internalID: -1898208642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3167
+        width: 456
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dcdd399d9dbdb479dfe42a2c7ed605
+      internalID: 1425829854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_24
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 3331
+        width: 313
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630df87f7e9a494881551cf066e95b0
+      internalID: -774023124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_25
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3374
+        width: 649
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694162ff5d74cb244bef694ffcb2ec4e
+      internalID: -1129343504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_26
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 3382
+        width: 204
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041876736eace643aff5e961faf5f11
+      internalID: -125599737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_27
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 3360
+        width: 171
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005732b17184f1541a9859d526f72009
+      internalID: -1841175584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_28
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 3382
+        width: 178
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04cc255508838a428831c44b33a88fd
+      internalID: -91795043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3138
+        width: 226
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84386d17abd6980449fa7f300128cd25
+      internalID: -453364106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_30
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1185
+        width: 3913
+        height: 2120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9213334df1533418b9e75dd9a0a188
+      internalID: 445124923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2792
+        width: 399
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c5d9400bcb065478cc148946c26546
+      internalID: -523796268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2752
+        width: 219
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140edd79509bf3e42ad80f578028bbfd
+      internalID: 283111946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_33
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2890
+        width: 418
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03474b50df1d1cd4f80b53ca37278e0b
+      internalID: 494199197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_34
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2864
+        width: 313
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536af0c454e664145a9dc77c56270c43
+      internalID: 2013267624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2511
+        width: 266
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11d21594edb3a46a45183655bcf7d6
+      internalID: 283992133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_36
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2362
+        width: 149
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56e9009ceb12b846a82a3a31d55bbf3
+      internalID: 203639532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_37
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2591
+        width: 325
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ff0a2a5969c84a9d12b2d1f41f3d7
+      internalID: 946549403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_38
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2580
+        width: 324
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5bcf317069b24d95ebf03034659d9
+      internalID: 212004193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2125
+        width: 197
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10741357793e8e343bde85b4f2ac9923
+      internalID: -1576824638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2355
+        width: 204
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be426a4b5ff51f5439aa485704918adb
+      internalID: 1605405325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2070
+        width: 262
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36397fced70ba4fbb6cf6cd4b135f1
+      internalID: -57826288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_42
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2194
+        width: 200
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ed36b351c4bf242bb4c918fa129031
+      internalID: 1069436292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_43
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1524
+        width: 321
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744615086eb65954a9edf2ceb0da4ff5
+      internalID: 235239532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_44
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1692
+        width: 346
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5421cd7f57b5b0459599bbfaf4692eb
+      internalID: -914327904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_45
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1349
+        width: 446
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051f67e3600b254dad6abff6386aa54
+      internalID: -83838443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_46
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 956
+        width: 255
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977329c94bc12e64daf31733abc023fb
+      internalID: 2018191242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_47
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 1240
+        width: 423
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599237cb9ec2d44c86daf623e16f9d4
+      internalID: -254313503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_48
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1003
+        width: 251
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aae622320f35144bb770f89f8d6a8b
+      internalID: 885135174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_49
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 832
+        width: 288
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96c6c2ba919404cbddffaa07bbb7ec
+      internalID: 2004853752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_50
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 894
+        width: 419
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6a325c2b4ebb4d8af66efb7ec4dcd
+      internalID: -1950818205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_51
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 832
+        width: 265
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede4cccb1e239a45b78558c860a9856
+      internalID: 1593889979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_52
+      rect:
+        serializedVersion: 2
+        x: 4865
+        y: 890
+        width: 226
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db85dd4c8fe0424b99f586805ab4d4c
+      internalID: -957395129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_53
+      rect:
+        serializedVersion: 2
+        x: 6701
+        y: 941
+        width: 270
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b5e30d7544c74188fad349d5da078
+      internalID: -1294147268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_54
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 646
+        width: 234
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e21f9d5fec574da9f90c6d588fae4
+      internalID: 575937784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_55
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 501
+        width: 306
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7730939671cbf4545ba2ea1148e003e9
+      internalID: 978926209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_56
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 519
+        width: 281
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03814401e8490014b96f91dc56b44db7
+      internalID: -1402006084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_57
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 344
+        width: 273
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a43866868ff944a87a50c5e5aa67fc
+      internalID: -1636071961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_58
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 0
+        width: 878
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293135eb1c94e754a94d362f0a047791
+      internalID: 632488209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_59
+      rect:
+        serializedVersion: 2
+        x: 6712
+        y: 355
+        width: 284
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1cef51580e717438a79d416fd7ca63
+      internalID: 338301827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_60
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 333
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a20d0ae310ff84d85666fa0ddc9053
+      internalID: -870935659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_61
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 159
+        width: 215
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59331a62e201f224b9c941026c7b7ca8
+      internalID: -1824580914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_62
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 304
+        width: 299
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e5538a9d5f9d43aaf04682f20763d
+      internalID: 872461197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_63
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 0
+        width: 113
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a8802c8a961c4a8c1df761694c89e
+      internalID: 1529410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapWithBorders_64
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 35
+        width: 232
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b5566f781d5f1438f528513101f152
+      internalID: -1522743796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapWithBorders_0: -1411222617
+      MapWithBorders_1: -682555213
+      MapWithBorders_10: -1269016522
+      MapWithBorders_11: -1175163545
+      MapWithBorders_12: -1009372254
+      MapWithBorders_13: 1107048954
+      MapWithBorders_14: 1805024904
+      MapWithBorders_15: 1185151973
+      MapWithBorders_16: -2097139081
+      MapWithBorders_17: 2010926976
+      MapWithBorders_18: -99793477
+      MapWithBorders_19: 1612795692
+      MapWithBorders_2: -791346431
+      MapWithBorders_20: 1473696327
+      MapWithBorders_21: 1989796547
+      MapWithBorders_22: -1898208642
+      MapWithBorders_23: 1425829854
+      MapWithBorders_24: -774023124
+      MapWithBorders_25: -1129343504
+      MapWithBorders_26: -125599737
+      MapWithBorders_27: -1841175584
+      MapWithBorders_28: -91795043
+      MapWithBorders_29: -453364106
+      MapWithBorders_3: 1804685829
+      MapWithBorders_30: 445124923
+      MapWithBorders_31: -523796268
+      MapWithBorders_32: 283111946
+      MapWithBorders_33: 494199197
+      MapWithBorders_34: 2013267624
+      MapWithBorders_35: 283992133
+      MapWithBorders_36: 203639532
+      MapWithBorders_37: 946549403
+      MapWithBorders_38: 212004193
+      MapWithBorders_39: -1576824638
+      MapWithBorders_4: 629672721
+      MapWithBorders_40: 1605405325
+      MapWithBorders_41: -57826288
+      MapWithBorders_42: 1069436292
+      MapWithBorders_43: 235239532
+      MapWithBorders_44: -914327904
+      MapWithBorders_45: -83838443
+      MapWithBorders_46: 2018191242
+      MapWithBorders_47: -254313503
+      MapWithBorders_48: 885135174
+      MapWithBorders_49: 2004853752
+      MapWithBorders_5: 904388744
+      MapWithBorders_50: -1950818205
+      MapWithBorders_51: 1593889979
+      MapWithBorders_52: -957395129
+      MapWithBorders_53: -1294147268
+      MapWithBorders_54: 575937784
+      MapWithBorders_55: 978926209
+      MapWithBorders_56: -1402006084
+      MapWithBorders_57: -1636071961
+      MapWithBorders_58: 632488209
+      MapWithBorders_59: 338301827
+      MapWithBorders_6: -1397455783
+      MapWithBorders_60: -870935659
+      MapWithBorders_61: -1824580914
+      MapWithBorders_62: 872461197
+      MapWithBorders_63: 1529410112
+      MapWithBorders_64: -1522743796
+      MapWithBorders_7: 833050774
+      MapWithBorders_8: -1084402085
+      MapWithBorders_9: -1830777956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
