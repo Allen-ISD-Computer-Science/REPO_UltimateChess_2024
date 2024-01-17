@@ -1344,10 +1344,10 @@ TextureImporter:
       name: MapWithBorders_58
       rect:
         serializedVersion: 2
-        x: 5663
-        y: 0
-        width: 878
-        height: 734
+        x: 6121
+        y: 318
+        width: 420
+        height: 416
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
