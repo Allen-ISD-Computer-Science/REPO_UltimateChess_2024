@@ -151,8 +151,8 @@ Transform:
   m_GameObject: {fileID: 37216540}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.1687, y: 1.5068, z: -1}
-  m_LocalScale: {x: 0.31281748, y: 0.33593318, z: 0}
+  m_LocalPosition: {x: -6.1995, y: 1.5068, z: -1}
+  m_LocalScale: {x: 0.35410938, y: 0.33593318, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: West Coast
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -397,7 +397,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Chad
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -569,7 +569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Patagonia
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -743,7 +743,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Nigeria
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -917,7 +917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Ontario
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1256,7 +1256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Iran
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1421,7 +1421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Andes
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1580,8 +1580,8 @@ Transform:
   m_GameObject: {fileID: 201848116}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.434, y: 2.5611, z: -1}
-  m_LocalScale: {x: 0.33875138, y: 0.32556114, z: 0}
+  m_LocalPosition: {x: -3.4571, y: 2.5688, z: -1}
+  m_LocalScale: {x: 0.35348704, y: 0.33236536, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1652,7 +1652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Quebec
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1824,7 +1824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Arabian Peninsula
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1997,7 +1997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Horn of Africa
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2245,8 +2245,8 @@ Transform:
   m_GameObject: {fileID: 250952225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0222, y: 2.3235, z: 0}
-  m_LocalScale: {x: 0.36397693, y: 0.3179085, z: 1}
+  m_LocalPosition: {x: 0.9994, y: 2.3235, z: 0}
+  m_LocalScale: {x: 0.38519678, y: 0.3179085, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2265,7 +2265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: West Russia
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2437,7 +2437,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: South Africa
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2604,7 +2604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: New England
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2778,7 +2778,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Northern Argentina
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2876,8 +2876,8 @@ Transform:
   m_GameObject: {fileID: 377989887}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.7286, y: 1.1048, z: -1}
-  m_LocalScale: {x: 0.3398142, y: 0.3350241, z: 0}
+  m_LocalPosition: {x: -5.7594, y: 1.1048, z: -1}
+  m_LocalScale: {x: 0.37104312, y: 0.3350241, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2948,7 +2948,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Northern Mexico
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3117,7 +3117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: West China
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3232,8 +3232,8 @@ Transform:
   m_GameObject: {fileID: 395840954}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6126, y: 1.8561, z: -1}
-  m_LocalScale: {x: 0.3429635, y: 0.3160861, z: 0}
+  m_LocalPosition: {x: 0.6026, y: 1.8861, z: -1}
+  m_LocalScale: {x: 0.40662572, y: 0.35056147, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -3304,7 +3304,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: The Balkans
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3473,7 +3473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: The Congo
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3645,7 +3645,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Siam
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3825,7 +3825,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Western Sahara
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4002,7 +4002,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Sudan
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4173,7 +4173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: The Urals
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4511,7 +4511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Far East Russia
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4709,7 +4709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Texas
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4806,8 +4806,8 @@ Transform:
   m_GameObject: {fileID: 701260791}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.6338, y: 1.2712, z: -1}
-  m_LocalScale: {x: 0.4124697, y: 0.39392045, z: 0}
+  m_LocalPosition: {x: -4.6953, y: 1.2712, z: -1}
+  m_LocalScale: {x: 0.3661906, y: 0.39392045, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -4878,7 +4878,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Flordia Peninsula
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5047,7 +5047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: West Middle-East
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5212,7 +5212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: India
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5574,7 +5574,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: East Siberia
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5749,7 +5749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Central America
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5917,7 +5917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Nunavut
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6102,7 +6102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Central Asiastan
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6260,8 +6260,8 @@ Transform:
   m_GameObject: {fileID: 851625481}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0067, y: 2.429, z: 0}
-  m_LocalScale: {x: 0.35833213, y: 0.3484416, z: 1}
+  m_LocalPosition: {x: -0.0135, y: 2.429, z: 0}
+  m_LocalScale: {x: 0.36664546, y: 0.3484416, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6280,7 +6280,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Germania
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6376,8 +6376,8 @@ Transform:
   m_GameObject: {fileID: 898103812}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.8629, y: 1.7, z: -1}
-  m_LocalScale: {x: 0.36817446, y: 0.30685973, z: 0}
+  m_LocalPosition: {x: -4.92, y: 1.72, z: -1}
+  m_LocalScale: {x: 0.382386, y: 0.31624964, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6448,7 +6448,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Greater Ozarks
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6795,7 +6795,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Turkey
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6957,7 +6957,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Rockies
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7107,8 +7107,8 @@ Transform:
   m_GameObject: {fileID: 1047080739}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.4151, y: 2.3005, z: 0}
-  m_LocalScale: {x: 0.422014, y: 0.3874523, z: 1}
+  m_LocalPosition: {x: 0.3618, y: 2.3172, z: 0}
+  m_LocalScale: {x: 0.33866623, y: 0.3650963, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -7127,7 +7127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Central Europe
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7293,7 +7293,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Centro-Sul
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7464,7 +7464,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Alaska
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7797,8 +7797,8 @@ Transform:
   m_GameObject: {fileID: 1184813953}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0257, y: 2.8361, z: 0}
-  m_LocalScale: {x: 0.3535936, y: 0.33826962, z: 1}
+  m_LocalPosition: {x: 1.0008, y: 2.8361, z: 0}
+  m_LocalScale: {x: 0.3721219, y: 0.33826962, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -7817,7 +7817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Karelia
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7992,7 +7992,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Great Britain and Ireland
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8156,7 +8156,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Nordeste
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8333,7 +8333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Egypt
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8498,7 +8498,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: West Siberia
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8679,7 +8679,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: East China
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8949,7 +8949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: British Columbia
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9128,7 +9128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Canadian Artic
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9297,7 +9297,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Volga
-    region: 0
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9574,8 +9574,8 @@ Transform:
   m_GameObject: {fileID: 1682710785}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.3846, y: 0.5433, z: -1}
-  m_LocalScale: {x: 0.36319783, y: 0.36686033, z: 0}
+  m_LocalPosition: {x: -5.4077, y: 0.5433, z: -1}
+  m_LocalScale: {x: 0.3808129, y: 0.36686033, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -9646,7 +9646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Southern Mexico
-    region: 0
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9817,7 +9817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Greenland and Iceland
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9998,7 +9998,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Mozambique
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10094,8 +10094,8 @@ Transform:
   m_GameObject: {fileID: 1845808594}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0811, y: 1.8679, z: -1}
-  m_LocalScale: {x: 0.31037518, y: 0.30668458, z: 0}
+  m_LocalPosition: {x: 0.0505, y: 1.8917, z: -1}
+  m_LocalScale: {x: 0.34609938, y: 0.33566627, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -10166,7 +10166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Italy
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10335,7 +10335,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Angola
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10503,7 +10503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Iqaluit
-    region: 0
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10676,7 +10676,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Madagascar
-    region: 0
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10842,7 +10842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Scandanavia
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11012,7 +11012,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Amazonia
-    region: 0
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11189,7 +11189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Morocco
-    region: 0
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11363,7 +11363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   territory:
     name: Andorra
-    region: 0
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2

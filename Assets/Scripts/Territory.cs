@@ -11,8 +11,7 @@ public class Territory
 	public enum Regions{
 		Oceania,
 		Asia,
-		EastEurope,
-		WestEurope,
+		Europe,
 		NorthAfrica,
 		SouthAfrica,
 		Canada,

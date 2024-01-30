@@ -46,12 +46,7 @@ public class TerritoryManager : MonoBehaviour
 				countHandler.TintColor(new Color32(56,218,56,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.EastEurope)
-			{
-				countHandler.TintColor(new Color32(56,218,56,255));
-			}
-
-			if(countHandler.territory.region == Territory.Regions.WestEurope)
+			if(countHandler.territory.region == Territory.Regions.Europe)
 			{
 				countHandler.TintColor(new Color32(56,218,56,255));
 			}
