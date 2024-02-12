@@ -30,7 +30,7 @@ public class TerritoryManager : MonoBehaviour
 		TintTerritories();
 	}
 
-	void TintTerritories()
+	public void TintTerritories()
 	{
 		for(int i = 0;i<territoryList.Count; i++)
 		{
