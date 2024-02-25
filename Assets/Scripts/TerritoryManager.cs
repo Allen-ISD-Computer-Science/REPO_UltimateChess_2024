@@ -18,6 +18,16 @@ public class TerritoryManager : MonoBehaviour
    	void Start()
    	{
         	AddTerritoryData();
+			
+			if(GameManager.instance.battleHasEnded)
+			{
+				TerritoryHandler count = GameObject.Find(GameManager.instance.attackTerritory).GetComponent<TerritoryHandler>();
+				count.territory.region = Territory.Regions.Oceania;
+				GameManager.instance.money += count.territory.moneyReward;
+			}
+			
+			TintTerritories();
+			GameManager.instance.Saving();
   	}
 	
 	void AddTerritoryData()
@@ -27,6 +37,7 @@ public class TerritoryManager : MonoBehaviour
 		{
 			territoryList.Add(territory);
 		}
+		GameManager.instance.Loading();
 		TintTerritories();
 	}
 
