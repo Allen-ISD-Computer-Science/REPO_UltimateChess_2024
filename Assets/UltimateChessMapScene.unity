@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 18782965}
   - component: {fileID: 18782964}
   m_Layer: 0
-  m_Name: MapWithBorders_24
+  m_Name: Canadian Artic
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -169,8 +169,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_24
-    region: 0
+    name: Canadian Artic
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -320,7 +320,7 @@ GameObject:
   - component: {fileID: 96626813}
   - component: {fileID: 96626812}
   m_Layer: 0
-  m_Name: MapWithBorders_53
+  m_Name: Guiena
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_53
+    name: Guiena
     region: 0
     moneyReward: 0
   oldColor:
@@ -506,7 +506,7 @@ GameObject:
   - component: {fileID: 105032137}
   - component: {fileID: 105032136}
   m_Layer: 0
-  m_Name: MapWithBorders_45
+  m_Name: Nordeste
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -538,8 +538,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_45
-    region: 0
+    name: Nordeste
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -697,7 +697,7 @@ GameObject:
   - component: {fileID: 118447662}
   - component: {fileID: 118447661}
   m_Layer: 0
-  m_Name: MapWithBorders_63
+  m_Name: Madagascar
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -729,8 +729,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_63
-    region: 0
+    name: Madagascar
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -877,7 +877,7 @@ GameObject:
   - component: {fileID: 167088824}
   - component: {fileID: 167088823}
   m_Layer: 0
-  m_Name: MapWithBorders_34
+  m_Name: Quebec
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -909,8 +909,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_34
-    region: 0
+    name: Quebec
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1108,7 +1108,7 @@ GameObject:
   - component: {fileID: 220831344}
   - component: {fileID: 220831343}
   m_Layer: 0
-  m_Name: MapWithBorders_3
+  m_Name: West Siberia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1140,8 +1140,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_3
-    region: 0
+    name: West Siberia
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1303,7 +1303,7 @@ GameObject:
   - component: {fileID: 239773732}
   - component: {fileID: 239773731}
   m_Layer: 0
-  m_Name: MapWithBorders_55
+  m_Name: Western Sahara
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1335,7 +1335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_55
+    name: Western Sahara
     region: 3
     moneyReward: 0
   oldColor:
@@ -1494,7 +1494,7 @@ GameObject:
   - component: {fileID: 320527724}
   - component: {fileID: 320527723}
   m_Layer: 0
-  m_Name: MapWithBorders_43
+  m_Name: Andes
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1526,8 +1526,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_43
-    region: 0
+    name: Andes
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1694,7 +1694,7 @@ GameObject:
   - component: {fileID: 342062575}
   - component: {fileID: 342062574}
   m_Layer: 0
-  m_Name: MapWithBorders_25
+  m_Name: Denmark
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1726,8 +1726,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_25
-    region: 0
+    name: Denmark
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -1889,7 +1889,7 @@ GameObject:
   - component: {fileID: 344454951}
   - component: {fileID: 344454950}
   m_Layer: 0
-  m_Name: MapWithBorders_0
+  m_Name: Scandanavia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1921,8 +1921,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_0
-    region: 0
+    name: Scandanavia
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2070,7 +2070,7 @@ GameObject:
   - component: {fileID: 349280325}
   - component: {fileID: 349280324}
   m_Layer: 0
-  m_Name: MapWithBorders_44
+  m_Name: Amazonia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2102,8 +2102,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_44
-    region: 0
+    name: Amazonia
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2261,7 +2261,7 @@ GameObject:
   - component: {fileID: 358408334}
   - component: {fileID: 358408333}
   m_Layer: 0
-  m_Name: MapWithBorders_38
+  m_Name: New England
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2293,8 +2293,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_38
-    region: 0
+    name: New England
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2449,7 +2449,7 @@ GameObject:
   - component: {fileID: 372944924}
   - component: {fileID: 372944923}
   m_Layer: 0
-  m_Name: MapWithBorders_15
+  m_Name: Karelia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2481,7 +2481,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_15
+    name: Karelia
     region: 2
     moneyReward: 0
   oldColor:
@@ -2638,7 +2638,7 @@ GameObject:
   - component: {fileID: 453254569}
   - component: {fileID: 453254568}
   m_Layer: 0
-  m_Name: MapWithBorders_27
+  m_Name: Italy
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2670,8 +2670,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_27
-    region: 0
+    name: Italy
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -2821,7 +2821,7 @@ GameObject:
   - component: {fileID: 476329490}
   - component: {fileID: 476329489}
   m_Layer: 0
-  m_Name: MapWithBorders_11
+  m_Name: West Middle-East
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2853,8 +2853,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_11
-    region: 0
+    name: West Middle-East
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3000,7 +3000,7 @@ GameObject:
   - component: {fileID: 481794973}
   - component: {fileID: 481794972}
   m_Layer: 0
-  m_Name: MapWithBorders_29
+  m_Name: Iqaluit
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3032,8 +3032,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_29
-    region: 0
+    name: Iqaluit
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3187,7 +3187,7 @@ GameObject:
   - component: {fileID: 488826427}
   - component: {fileID: 488826426}
   m_Layer: 0
-  m_Name: MapWithBorders_62
+  m_Name: The Congo
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3219,7 +3219,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_62
+    name: The Congo
     region: 4
     moneyReward: 0
   oldColor:
@@ -3373,7 +3373,7 @@ GameObject:
   - component: {fileID: 492643036}
   - component: {fileID: 492643035}
   m_Layer: 0
-  m_Name: MapWithBorders_37
+  m_Name: Greater Ozarks
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3405,8 +3405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_37
-    region: 0
+    name: Greater Ozarks
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3553,7 +3553,7 @@ GameObject:
   - component: {fileID: 582941200}
   - component: {fileID: 582941199}
   m_Layer: 0
-  m_Name: MapWithBorders_13
+  m_Name: The Baltics
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3585,8 +3585,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_13
-    region: 0
+    name: The Baltics
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -3732,7 +3732,7 @@ GameObject:
   - component: {fileID: 612810990}
   - component: {fileID: 612810989}
   m_Layer: 0
-  m_Name: MapWithBorders_48
+  m_Name: Northern Argentina
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3764,7 +3764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_48
+    name: Northern Argentina
     region: 7
     moneyReward: 0
   oldColor:
@@ -4000,7 +4000,7 @@ GameObject:
   - component: {fileID: 676637015}
   - component: {fileID: 676637014}
   m_Layer: 0
-  m_Name: MapWithBorders_51
+  m_Name: Sudan
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4032,8 +4032,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_51
-    region: 0
+    name: Sudan
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4185,7 +4185,7 @@ GameObject:
   - component: {fileID: 688957358}
   - component: {fileID: 688957357}
   m_Layer: 0
-  m_Name: MapWithBorders_10
+  m_Name: East China
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4217,8 +4217,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_10
-    region: 0
+    name: East China
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4385,7 +4385,7 @@ GameObject:
   - component: {fileID: 689298218}
   - component: {fileID: 689298217}
   m_Layer: 0
-  m_Name: MapWithBorders_47
+  m_Name: Indonesia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4417,7 +4417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_47
+    name: Indonesia
     region: 0
     moneyReward: 0
   oldColor:
@@ -4577,7 +4577,7 @@ GameObject:
   - component: {fileID: 801434038}
   - component: {fileID: 801434037}
   m_Layer: 0
-  m_Name: MapWithBorders_41
+  m_Name: South Mexico
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4609,8 +4609,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_41
-    region: 0
+    name: South Mexico
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4762,7 +4762,7 @@ GameObject:
   - component: {fileID: 805617049}
   - component: {fileID: 805617048}
   m_Layer: 0
-  m_Name: MapWithBorders_28
+  m_Name: The Balkans
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4794,8 +4794,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_28
-    region: 0
+    name: The Balkans
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -4945,7 +4945,7 @@ GameObject:
   - component: {fileID: 883444642}
   - component: {fileID: 883444641}
   m_Layer: 0
-  m_Name: MapWithBorders_26
+  m_Name: Andorra
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4977,8 +4977,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_26
-    region: 0
+    name: Andorra
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5131,7 +5131,7 @@ GameObject:
   - component: {fileID: 917566491}
   - component: {fileID: 917566490}
   m_Layer: 0
-  m_Name: MapWithBorders_20
+  m_Name: Germania
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5163,7 +5163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_20
+    name: Germania
     region: 2
     moneyReward: 0
   oldColor:
@@ -5313,7 +5313,7 @@ GameObject:
   - component: {fileID: 926960692}
   - component: {fileID: 926960691}
   m_Layer: 0
-  m_Name: MapWithBorders_58
+  m_Name: Western Australia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5345,7 +5345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_58
+    name: Western Australia
     region: 0
     moneyReward: 0
   oldColor:
@@ -5504,7 +5504,7 @@ GameObject:
   - component: {fileID: 936341393}
   - component: {fileID: 936341392}
   m_Layer: 0
-  m_Name: MapWithBorders_40
+  m_Name: Texas
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5536,8 +5536,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_40
-    region: 0
+    name: Texas
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -5687,7 +5687,7 @@ GameObject:
   - component: {fileID: 939685167}
   - component: {fileID: 939685166}
   m_Layer: 0
-  m_Name: MapWithBorders_32
+  m_Name: Rockies
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5719,7 +5719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_32
+    name: Rockies
     region: 6
     moneyReward: 0
   oldColor:
@@ -5871,7 +5871,7 @@ GameObject:
   - component: {fileID: 972217907}
   - component: {fileID: 972217906}
   m_Layer: 0
-  m_Name: MapWithBorders_31
+  m_Name: Alaska
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5903,8 +5903,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_31
-    region: 0
+    name: Alaska
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6062,7 +6062,7 @@ GameObject:
   - component: {fileID: 986465876}
   - component: {fileID: 986465875}
   m_Layer: 0
-  m_Name: MapWithBorders_23
+  m_Name: Nunavut
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6094,8 +6094,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_23
-    region: 0
+    name: Nunavut
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6261,7 +6261,7 @@ GameObject:
   - component: {fileID: 996037639}
   - component: {fileID: 996037638}
   m_Layer: 0
-  m_Name: MapWithBorders_54
+  m_Name: Patagonia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6293,8 +6293,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_54
-    region: 0
+    name: Patagonia
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6449,7 +6449,7 @@ GameObject:
   - component: {fileID: 1012626283}
   - component: {fileID: 1012626282}
   m_Layer: 0
-  m_Name: MapWithBorders_42
+  m_Name: Central America
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6481,8 +6481,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_42
-    region: 0
+    name: Central America
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6631,7 +6631,7 @@ GameObject:
   - component: {fileID: 1026354071}
   - component: {fileID: 1026354070}
   m_Layer: 0
-  m_Name: MapWithBorders_61
+  m_Name: Angola
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6663,8 +6663,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_61
-    region: 0
+    name: Angola
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -6813,7 +6813,7 @@ GameObject:
   - component: {fileID: 1037657760}
   - component: {fileID: 1037657759}
   m_Layer: 0
-  m_Name: MapWithBorders_59
+  m_Name: New South Wales
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6845,7 +6845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_59
+    name: New South Wales
     region: 0
     moneyReward: 0
   oldColor:
@@ -7004,7 +7004,7 @@ GameObject:
   - component: {fileID: 1088073369}
   - component: {fileID: 1088073368}
   m_Layer: 0
-  m_Name: MapWithBorders_60
+  m_Name: South Africaa
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7036,8 +7036,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_60
-    region: 0
+    name: South Africaa
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7233,7 +7233,7 @@ GameObject:
   - component: {fileID: 1124874123}
   - component: {fileID: 1124874122}
   m_Layer: 0
-  m_Name: MapWithBorders_21
+  m_Name: Central Europe
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7265,8 +7265,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_21
-    region: 0
+    name: Central Europe
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7413,7 +7413,7 @@ GameObject:
   - component: {fileID: 1190566804}
   - component: {fileID: 1190566803}
   m_Layer: 0
-  m_Name: MapWithBorders_2
+  m_Name: The Urals
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7445,8 +7445,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_2
-    region: 0
+    name: The Urals
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7595,7 +7595,7 @@ GameObject:
   - component: {fileID: 1198205191}
   - component: {fileID: 1198205190}
   m_Layer: 0
-  m_Name: MapWithBorders_1
+  m_Name: Turkey
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7627,8 +7627,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_1
-    region: 0
+    name: Turkey
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7771,7 +7771,7 @@ GameObject:
   - component: {fileID: 1287280571}
   - component: {fileID: 1287280570}
   m_Layer: 0
-  m_Name: MapWithBorders_8
+  m_Name: Volga
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7803,8 +7803,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_8
-    region: 0
+    name: Volga
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -7966,7 +7966,7 @@ GameObject:
   - component: {fileID: 1288695778}
   - component: {fileID: 1288695777}
   m_Layer: 0
-  m_Name: MapWithBorders_22
+  m_Name: West Russia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7998,8 +7998,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_22
-    region: 0
+    name: West Russia
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8152,7 +8152,7 @@ GameObject:
   - component: {fileID: 1311145753}
   - component: {fileID: 1311145752}
   m_Layer: 0
-  m_Name: MapWithBorders_16
+  m_Name: Central Asiastan
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8184,8 +8184,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_16
-    region: 0
+    name: Central Asiastan
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8487,7 +8487,7 @@ GameObject:
   - component: {fileID: 1361221099}
   - component: {fileID: 1361221098}
   m_Layer: 0
-  m_Name: MapWithBorders_36
+  m_Name: West Coast
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8519,8 +8519,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_36
-    region: 0
+    name: West Coast
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8675,7 +8675,7 @@ GameObject:
   - component: {fileID: 1375715892}
   - component: {fileID: 1375715891}
   m_Layer: 0
-  m_Name: MapWithBorders_46
+  m_Name: Centro-Sul
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8707,8 +8707,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_46
-    region: 0
+    name: Centro-Sul
+    region: 7
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -8857,7 +8857,7 @@ GameObject:
   - component: {fileID: 1427951927}
   - component: {fileID: 1427951926}
   m_Layer: 0
-  m_Name: MapWithBorders_30
+  m_Name: Sea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9028,7 +9028,7 @@ GameObject:
   - component: {fileID: 1480894976}
   - component: {fileID: 1480894975}
   m_Layer: 0
-  m_Name: MapWithBorders_64
+  m_Name: Mozambique
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9060,8 +9060,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_64
-    region: 0
+    name: Mozambique
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9278,7 +9278,7 @@ GameObject:
   - component: {fileID: 1561696408}
   - component: {fileID: 1561696407}
   m_Layer: 0
-  m_Name: MapWithBorders_18
+  m_Name: Innuitian Orogen
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9310,8 +9310,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_18
-    region: 0
+    name: Innuitian Orogen
+    region: 5
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9460,7 +9460,7 @@ GameObject:
   - component: {fileID: 1565710539}
   - component: {fileID: 1565710538}
   m_Layer: 0
-  m_Name: MapWithBorders_6
+  m_Name: British Columbia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9492,7 +9492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_6
+    name: British Columbia
     region: 5
     moneyReward: 0
   oldColor:
@@ -9654,7 +9654,7 @@ GameObject:
   - component: {fileID: 1595799435}
   - component: {fileID: 1595799434}
   m_Layer: 0
-  m_Name: MapWithBorders_12
+  m_Name: Indochina
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9686,8 +9686,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_12
-    region: 0
+    name: Indochina
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -9848,7 +9848,7 @@ GameObject:
   - component: {fileID: 1633889832}
   - component: {fileID: 1633889831}
   m_Layer: 0
-  m_Name: MapWithBorders_50
+  m_Name: Morocco
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9880,8 +9880,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_50
-    region: 0
+    name: Morocco
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10036,7 +10036,7 @@ GameObject:
   - component: {fileID: 1702283558}
   - component: {fileID: 1702283557}
   m_Layer: 0
-  m_Name: MapWithBorders_4
+  m_Name: Far East Russia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10068,8 +10068,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_4
-    region: 0
+    name: Far East Russia
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10248,7 +10248,7 @@ GameObject:
   - component: {fileID: 1738165093}
   - component: {fileID: 1738165092}
   m_Layer: 0
-  m_Name: MapWithBorders_14
+  m_Name: Arabian Peninsula
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10280,8 +10280,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_14
-    region: 0
+    name: Arabian Peninsula
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10435,7 +10435,7 @@ GameObject:
   - component: {fileID: 1844082958}
   - component: {fileID: 1844082957}
   m_Layer: 0
-  m_Name: MapWithBorders_57
+  m_Name: Horn of Africa
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10467,8 +10467,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_57
-    region: 0
+    name: Horn of Africa
+    region: 4
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10625,7 +10625,7 @@ GameObject:
   - component: {fileID: 1855380045}
   - component: {fileID: 1855380044}
   m_Layer: 0
-  m_Name: MapWithBorders_19
+  m_Name: British Isles
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10657,8 +10657,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_19
-    region: 0
+    name: British Isles
+    region: 2
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10803,7 +10803,7 @@ GameObject:
   - component: {fileID: 1901276298}
   - component: {fileID: 1901276297}
   m_Layer: 0
-  m_Name: MapWithBorders_7
+  m_Name: Persia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10835,8 +10835,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_7
-    region: 0
+    name: Persia
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -10982,7 +10982,7 @@ GameObject:
   - component: {fileID: 1920664979}
   - component: {fileID: 1920664978}
   m_Layer: 0
-  m_Name: MapWithBorders_39
+  m_Name: North Mexico
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11014,8 +11014,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_39
-    region: 0
+    name: North Mexico
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11165,7 +11165,7 @@ GameObject:
   - component: {fileID: 1929647281}
   - component: {fileID: 1929647280}
   m_Layer: 0
-  m_Name: MapWithBorders_52
+  m_Name: Egypt
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11197,8 +11197,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_52
-    region: 0
+    name: Egypt
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11344,7 +11344,7 @@ GameObject:
   - component: {fileID: 2004091843}
   - component: {fileID: 2004091842}
   m_Layer: 0
-  m_Name: MapWithBorders_49
+  m_Name: Nigeria
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11376,8 +11376,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_49
-    region: 0
+    name: Nigeria
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11532,7 +11532,7 @@ GameObject:
   - component: {fileID: 2027019314}
   - component: {fileID: 2027019313}
   m_Layer: 0
-  m_Name: MapWithBorders_56
+  m_Name: Chad
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11564,8 +11564,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_56
-    region: 0
+    name: Chad
+    region: 3
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11718,7 +11718,7 @@ GameObject:
   - component: {fileID: 2069841363}
   - component: {fileID: 2069841362}
   m_Layer: 0
-  m_Name: MapWithBorders_35
+  m_Name: Flordia Peninsula
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11750,8 +11750,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_35
-    region: 0
+    name: Flordia Peninsula
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -11901,7 +11901,7 @@ GameObject:
   - component: {fileID: 2070896241}
   - component: {fileID: 2070896240}
   m_Layer: 0
-  m_Name: MapWithBorders_5
+  m_Name: India
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11933,8 +11933,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_5
-    region: 0
+    name: India
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -12093,7 +12093,7 @@ GameObject:
   - component: {fileID: 2083214860}
   - component: {fileID: 2083214859}
   m_Layer: 0
-  m_Name: MapWithBorders_9
+  m_Name: East Siberia
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12125,8 +12125,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_9
-    region: 0
+    name: East Siberia
+    region: 1
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -12282,7 +12282,7 @@ GameObject:
   - component: {fileID: 2110405282}
   - component: {fileID: 2110405281}
   m_Layer: 0
-  m_Name: MapWithBorders_33
+  m_Name: Ontario
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12314,8 +12314,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_33
-    region: 0
+    name: Ontario
+    region: 6
     moneyReward: 0
   oldColor:
     serializedVersion: 2
@@ -12470,7 +12470,7 @@ GameObject:
   - component: {fileID: 2139573444}
   - component: {fileID: 2139573443}
   m_Layer: 0
-  m_Name: MapWithBorders_17
+  m_Name: West China
   m_TagString: Territory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12502,7 +12502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   territory:
-    name: MapWithBorders_17
+    name: West China
     region: 1
     moneyReward: 0
   oldColor:
