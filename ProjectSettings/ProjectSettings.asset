@@ -681,7 +681,13 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -701,11 +707,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a5d4db73-d49a-4653-9a1d-90557f77ba75
+  cloudProjectId: c1830de4-b7fc-47c2-906d-21bde5304bf2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: UltimateChess
-  organizationId: kodingkevin
+  organizationId: hamid4205
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
