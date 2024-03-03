@@ -40,37 +40,37 @@ public class TerritoryManager : MonoBehaviour
 		{
 			TerritoryHandler countHandler = territoryList[i].GetComponent<TerritoryHandler>();
 
-			if(countHandler.territory.region == Territory.Regions.Oceania)
+			if(countHandler.territory.player == Territory.Players.Player1)
 			{
 				countHandler.TintColor(new Color32(165,234,202,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.Asia)
+			if(countHandler.territory.player == Territory.Players.Player2)
 			{
 				countHandler.TintColor(new Color32(220,176,192,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.Europe)
+			if(countHandler.territory.player == Territory.Players.Player3)
 			{
 				countHandler.TintColor(new Color32(229,172,74,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.Canada)
+			if(countHandler.territory.player == Territory.Players.Player4)
 			{
 				countHandler.TintColor(new Color32(209,124,124,255));
 			}
 			
-			if(countHandler.territory.region == Territory.Regions.UnitedStates)
+			if(countHandler.territory.player == Territory.Players.Player5)
 			{
 				countHandler.TintColor(new Color32(91,136,214,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.SouthAmerica)
+			if(countHandler.territory.player == Territory.Players.Player6)
 			{
 				countHandler.TintColor(new Color32(108,208,90,255));
 			}
 
-			if(countHandler.territory.region == Territory.Regions.NorthAfrica)
+			/*if(countHandler.territory.region == Territory.Regions.NorthAfrica)
 			{
 				countHandler.TintColor(new Color32(180,115,205,255));
 			}
@@ -78,7 +78,7 @@ public class TerritoryManager : MonoBehaviour
 			if(countHandler.territory.region == Territory.Regions.SouthAfrica)
 			{
 				countHandler.TintColor(new Color32(206,73,157,255));
-			}
+			}*/
 		}
 	}
 }

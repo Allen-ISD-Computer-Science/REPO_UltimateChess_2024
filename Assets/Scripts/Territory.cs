@@ -19,7 +19,19 @@ public class Territory
 		SouthAmerica
 	}
 	
+	public enum Players{
+		Player1,
+		Player2,
+		Player3,
+		Player4,
+		Player5,
+		Player6
+	}
+	
 	public Regions region;
+	
+	public Players player;
 
 	public int moneyReward;
+	
 }
