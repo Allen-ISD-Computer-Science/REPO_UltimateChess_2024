@@ -13,6 +13,7 @@ public class TerritoryHandler : MonoBehaviour {
 	public Color32 oldColor;
 	public Color32 startColor;
 	public Color32 hoverColor;
+	public bool hovering = false;
 
 	void Awake()
 	{
@@ -23,6 +24,7 @@ public class TerritoryHandler : MonoBehaviour {
 	void OnMouseEnter() {
 		oldColor = sprite.color;
 		sprite.color = new Color32((byte)((int)oldColor.r + 10), (byte)((int)oldColor.g + 10), (byte)((int)oldColor.b + 10), 255);
+		hovering = true;
 	}
 
 	void OnMouseExit() {
@@ -30,6 +32,7 @@ public class TerritoryHandler : MonoBehaviour {
 		{
 			sprite.color = oldColor;
 		}
+		hovering = false;
 	}
 
 	private void OnMouseDown() {
@@ -39,9 +42,11 @@ public class TerritoryHandler : MonoBehaviour {
 	private void OnMouseUp()
 	{
         // There needs to be a check here for if the mouse is still hovering over the territory or not, since if its not it needs to turn to oldcolor instead of oldcolor + 10.
-        if (sprite.color != oldColor)
+        if (hovering == true)
 		{
 			sprite.color = new Color32((byte)((int)oldColor.r + 10), (byte)((int)oldColor.g + 10), (byte)((int)oldColor.b + 10), 255);
+		} else {
+			sprite.color = oldColor;
 		}
 
 	}

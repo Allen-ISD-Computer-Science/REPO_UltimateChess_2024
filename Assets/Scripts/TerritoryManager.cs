@@ -69,16 +69,6 @@ public class TerritoryManager : MonoBehaviour
 			{
 				countHandler.TintColor(new Color32(108,208,90,255));
 			}
-
-			/*if(countHandler.territory.region == Territory.Regions.NorthAfrica)
-			{
-				countHandler.TintColor(new Color32(180,115,205,255));
-			}
-
-			if(countHandler.territory.region == Territory.Regions.SouthAfrica)
-			{
-				countHandler.TintColor(new Color32(206,73,157,255));
-			}*/
 		}
 	}
 }
