@@ -2,11 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
-public class MainMenu : MonoBehaviour
+public class ChangeScene: MonoBehaviour
 {
-    public void LoadScene(string sceneName)
+    public void MoveToScene(int sceneID)
     {
-    SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene(sceneID);
     }
 }
