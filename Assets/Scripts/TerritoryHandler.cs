@@ -77,26 +77,12 @@ public class TerritoryHandler : MonoBehaviour {
 			sprite.color = oldColor;
 		}
     }
-    private void Update() {
-		//A little messy, but shouldnt be a part of anything but the mvp
-		if (Input.GetKey(KeyCode.Alpha1)) {
-			player = 1;
-		} else if (Input.GetKey(KeyCode.Alpha2)) {
-			player = 2;
-		}
-        else if (Input.GetKey(KeyCode.Alpha3)) {
-            player = 3;
-        }
-        else if (Input.GetKey(KeyCode.Alpha4)) {
-            player = 4;
-        }
-        else if (Input.GetKey(KeyCode.Alpha5)) {
-            player = 5;
-        }
-        else if (Input.GetKey(KeyCode.Alpha6)) {
-            player = 6;
-        }
-     }
+	
+    public void ChangePlayer(int currentPlayerIndex)
+    {
+        // Set player index
+        player = currentPlayerIndex + 1;
+    }
 
     void OnDrawGizmos()
 	{

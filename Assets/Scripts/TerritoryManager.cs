@@ -71,4 +71,13 @@ public class TerritoryManager : MonoBehaviour
 			}
 		}
 	}
+	public void ChangePlayers(int currentPlayerIndex)
+    {
+        foreach (GameObject territoryObject in territoryList)
+        {
+            TerritoryHandler territoryHandler = territoryObject.GetComponent<TerritoryHandler>();
+            territoryHandler.ChangePlayer(currentPlayerIndex);
+        }
+        TintTerritories();
+    }
 }
