@@ -13,7 +13,11 @@ public class EndTurnButton : MonoBehaviour
     // Function to handle button click event
     public void IncrementPlayerIndexOnClick()
     {
-        // Increment the currentPlayerIndex
+        // Adjust the player index for display (starting from 1)
+        string playerName = (currentPlayerIndex + 1).ToString();
+        popUpManager.ShowPopUp("Player " + playerName + " has ended their turn!");
+
+        // Increment the currentPlayerIndex for the next turn
         currentPlayerIndex++;
 
         // If the index exceeds the number of players, reset it to 0
@@ -24,8 +28,5 @@ public class EndTurnButton : MonoBehaviour
 
         // Change player index in TerritoryManager
         territoryManager.ChangePlayers(currentPlayerIndex);
-
-        string playerName = (currentPlayerIndex).ToString();
-        popUpManager.ShowPopUp("Player " + playerName + " has ended their turn!");
     }
 }

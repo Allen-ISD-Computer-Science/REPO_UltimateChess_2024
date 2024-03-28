@@ -3,56 +3,76 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+
 [RequireComponent(typeof(PolygonCollider2D))]
+public class TerritoryHandler : MonoBehaviour
+{
+    public Territory territory;
+    private SpriteRenderer sprite;
 
-public class TerritoryHandler : MonoBehaviour {
+    public Color32 oldColor;
+    public Color32 startColor;
+    public bool hovering = false;
+    public int player = 1;
 
-	public Territory territory;
+    private PlayerManager playerManager;
 
-	private SpriteRenderer sprite;
+    void Awake()
+    {
+        sprite = GetComponent<SpriteRenderer>();
+        sprite.color = startColor;
 
-	public Color32 oldColor;
-	public Color32 startColor;
-	public Color32 hoverColor;
-	public bool hovering = false;
-	public int player = 1;
-
-	void Awake()
-	{
-		sprite = GetComponent<SpriteRenderer>();
-		sprite.color = startColor;
-	}
-
-	void OnMouseEnter() {
-		oldColor = sprite.color;
-		sprite.color = new Color32((byte)((int)oldColor.r + 10), (byte)((int)oldColor.g + 10), (byte)((int)oldColor.b + 10), 255);
-		hovering = true;
-
+        playerManager = FindObjectOfType<PlayerManager>();
+        if (playerManager == null)
+        {
+            Debug.LogError("PlayerManager not found in the scene!");
+        }
     }
 
-    void OnMouseExit() {
-		if (sprite.color != new Color32((byte)((int)oldColor.r + 20), (byte)((int)oldColor.g + 20), (byte)((int)oldColor.b + 20), 255))
-		{
-			sprite.color = oldColor;
-		}
-		hovering = false;
-		//This causes a minor problem where the territory appears to become unclicked after the cursor leaves it, it should only exist for the MVP, since once territories change how they should, this wont be needed anymore.
+    void OnMouseEnter()
+    {
+        oldColor = sprite.color;
+        sprite.color = new Color32((byte)(oldColor.r + 10), (byte)(oldColor.g + 10), (byte)(oldColor.b + 10), 255);
+        hovering = true;
+    }
+
+    void OnMouseExit()
+    {
+        if (sprite.color != new Color32((byte)(oldColor.r + 20), (byte)(oldColor.g + 20), (byte)(oldColor.b + 20), 255))
+        {
+            sprite.color = oldColor;
+        }
+        hovering = false;
         TerritoryManager.instance.TintTerritories();
     }
 
-    private void OnMouseDown() {
-		sprite.color = new Color32((byte)((int)oldColor.r + 20), (byte)((int)oldColor.g + 20), (byte)((int)oldColor.b + 20), 255);
-	}
+    void OnMouseDown()
+    {
+        if (playerManager.IsPlayerEliminated(player))
+        {
+            // Player is eliminated, do not allow color change
+            return;
+        }
 
-	private void OnMouseUp()
-	{
-		switch (player) {
-			case 1:
+        sprite.color = new Color32((byte)(oldColor.r + 20), (byte)(oldColor.g + 20), (byte)(oldColor.b + 20), 255);
+    }
+
+    void OnMouseUp()
+    {
+        if (playerManager.IsPlayerEliminated(player))
+        {
+            // Player is eliminated, do not allow territory ownership change
+            return;
+        }
+
+        switch (player)
+        {
+            case 1:
                 territory.player = Territory.Players.Player1;
-				break;
+                break;
             case 2:
                 territory.player = Territory.Players.Player2;
-				break;
+                break;
             case 3:
                 territory.player = Territory.Players.Player3;
                 break;
@@ -66,32 +86,36 @@ public class TerritoryHandler : MonoBehaviour {
                 territory.player = Territory.Players.Player6;
                 break;
         }
+
+        playerManager.UpdateTerritoryOwnership(this, player);
+
         TerritoryManager.instance.TintTerritories();
         startColor = sprite.color;
         oldColor = startColor;
 
-        if (hovering == true)
-		{
-			sprite.color = new Color32((byte)((int)oldColor.r + 10), (byte)((int)oldColor.g + 10), (byte)((int)oldColor.b + 10), 255);
-		} else {
-			sprite.color = oldColor;
-		}
+        if (hovering)
+        {
+            sprite.color = new Color32((byte)(oldColor.r + 10), (byte)(oldColor.g + 10), (byte)(oldColor.b + 10), 255);
+        }
+        else
+        {
+            sprite.color = oldColor;
+        }
     }
-	
+
     public void ChangePlayer(int currentPlayerIndex)
     {
-        // Set player index
         player = currentPlayerIndex + 1;
     }
 
     void OnDrawGizmos()
-	{
-		territory.name = name;
-		this.tag = "Territory";
-	}
+    {
+        territory.name = name;
+        this.tag = "Territory";
+    }
 
-	public void TintColor(Color32 color)
-	{
-		sprite.color = color;
-	}
+    public void TintColor(Color32 color)
+    {
+        sprite.color = color;
+    }
 }

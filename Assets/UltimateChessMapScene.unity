@@ -173,13 +173,11 @@ MonoBehaviour:
     region: 5
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -359,13 +357,11 @@ MonoBehaviour:
     region: 0
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -548,13 +544,11 @@ MonoBehaviour:
     region: 7
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -742,13 +736,11 @@ MonoBehaviour:
     region: 4
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -925,13 +917,11 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -1159,13 +1149,11 @@ MonoBehaviour:
     region: 1
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -1357,13 +1345,11 @@ MonoBehaviour:
     region: 3
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -1551,13 +1537,11 @@ MonoBehaviour:
     region: 7
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -1754,13 +1738,11 @@ MonoBehaviour:
     region: 5
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -1952,13 +1934,11 @@ MonoBehaviour:
     region: 2
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -2136,13 +2116,11 @@ MonoBehaviour:
     region: 7
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -2330,13 +2308,11 @@ MonoBehaviour:
     region: 6
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -2521,13 +2497,11 @@ MonoBehaviour:
     region: 2
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -2713,13 +2687,11 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -2899,13 +2871,11 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -3081,13 +3051,11 @@ MonoBehaviour:
     region: 5
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -3271,13 +3239,11 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -3460,13 +3426,11 @@ MonoBehaviour:
     region: 6
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -3643,13 +3607,11 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -3825,13 +3787,11 @@ MonoBehaviour:
     region: 7
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -4159,13 +4119,11 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -4347,13 +4305,11 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -4550,13 +4506,11 @@ MonoBehaviour:
     region: 0
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -4695,6 +4649,51 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &776070303
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 776070305}
+  - component: {fileID: 776070304}
+  m_Layer: 0
+  m_Name: PlayerManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &776070304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776070303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2048ce3240ed454ba4ba8be626130d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eliminatedPlayers: 
+--- !u!4 &776070305
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776070303}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 309.58728, y: -141.69598, z: -1.4786918}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &801434036
 GameObject:
   m_ObjectHideFlags: 0
@@ -4745,13 +4744,11 @@ MonoBehaviour:
     region: 6
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -4933,13 +4930,11 @@ MonoBehaviour:
     region: 2
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -5119,13 +5114,11 @@ MonoBehaviour:
     region: 2
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -5308,13 +5301,11 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -5493,13 +5484,11 @@ MonoBehaviour:
     region: 0
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -5687,13 +5676,11 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -5873,13 +5860,11 @@ MonoBehaviour:
     region: 6
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -6060,13 +6045,11 @@ MonoBehaviour:
     region: 5
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -6254,13 +6237,11 @@ MonoBehaviour:
     region: 5
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -6456,13 +6437,11 @@ MonoBehaviour:
     region: 7
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -6647,13 +6626,11 @@ MonoBehaviour:
     region: 6
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -6832,13 +6809,11 @@ MonoBehaviour:
     region: 4
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -7017,15 +6992,13 @@ MonoBehaviour:
     region: 0
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 2052793
   startColor:
     serializedVersion: 2
     rgba: 38400
-  hoverColor:
-    serializedVersion: 2
-    rgba: 2500233
   hovering: 0
   player: 1
 --- !u!60 &1037657761
@@ -7211,13 +7184,11 @@ MonoBehaviour:
     region: 4
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -7395,13 +7366,11 @@ MonoBehaviour:
     region: 2
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -7628,8 +7597,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 17.4, y: 26.1}
-  m_SizeDelta: {x: 1471, y: 755}
+  m_AnchoredPosition: {x: 17.4, y: 29.01651}
+  m_SizeDelta: {x: 1471, y: 749.1671}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1190566802
 GameObject:
@@ -7681,13 +7650,11 @@ MonoBehaviour:
     region: 1
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -7866,13 +7833,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -8045,13 +8010,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -8243,13 +8206,11 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -8432,13 +8393,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -8770,13 +8729,11 @@ MonoBehaviour:
     region: 6
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -8961,13 +8918,11 @@ MonoBehaviour:
     region: 7
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -9177,7 +9132,7 @@ Transform:
   m_GameObject: {fileID: 1427951925}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 297.9442, y: -149.3344, z: 0}
+  m_LocalPosition: {x: 297.3, y: -151.1, z: 0}
   m_LocalScale: {x: 15.679916, y: 15.381897, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9233,13 +9188,11 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -9486,13 +9439,11 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -9671,13 +9622,11 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -9868,13 +9817,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -10065,13 +10012,11 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -10256,13 +10201,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -10471,13 +10414,11 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -10661,13 +10602,11 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -10854,13 +10793,11 @@ MonoBehaviour:
     region: 2
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11035,13 +10972,11 @@ MonoBehaviour:
     region: 1
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11217,13 +11152,11 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11403,13 +11336,11 @@ MonoBehaviour:
     region: 3
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11585,13 +11516,11 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11776,13 +11705,11 @@ MonoBehaviour:
     region: 3
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -11965,13 +11892,11 @@ MonoBehaviour:
     region: 6
     player: 5
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -12151,13 +12076,11 @@ MonoBehaviour:
     region: 1
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -12346,13 +12269,11 @@ MonoBehaviour:
     region: 1
     player: 3
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -12631,13 +12552,11 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -12822,13 +12741,11 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
+  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
   startColor:
-    serializedVersion: 2
-    rgba: 0
-  hoverColor:
     serializedVersion: 2
     rgba: 0
   hovering: 0
@@ -12981,6 +12898,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1330285380}
   - {fileID: 187317798}
+  - {fileID: 776070305}
   - {fileID: 1560827963}
   - {fileID: 1427951927}
   - {fileID: 344454954}
