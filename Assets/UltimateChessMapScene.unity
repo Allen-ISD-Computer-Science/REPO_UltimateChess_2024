@@ -173,7 +173,6 @@ MonoBehaviour:
     region: 5
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -357,7 +356,6 @@ MonoBehaviour:
     region: 0
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -544,7 +542,6 @@ MonoBehaviour:
     region: 7
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -736,7 +733,6 @@ MonoBehaviour:
     region: 4
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -917,7 +913,6 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -1149,7 +1144,6 @@ MonoBehaviour:
     region: 1
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -1345,7 +1339,6 @@ MonoBehaviour:
     region: 3
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -1537,7 +1530,6 @@ MonoBehaviour:
     region: 7
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -1738,7 +1730,6 @@ MonoBehaviour:
     region: 5
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -1934,7 +1925,6 @@ MonoBehaviour:
     region: 2
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -2116,7 +2106,6 @@ MonoBehaviour:
     region: 7
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -2308,7 +2297,6 @@ MonoBehaviour:
     region: 6
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -2497,7 +2485,6 @@ MonoBehaviour:
     region: 2
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -2687,7 +2674,6 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -2871,7 +2857,6 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -3051,7 +3036,6 @@ MonoBehaviour:
     region: 5
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -3239,7 +3223,6 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -3426,7 +3409,6 @@ MonoBehaviour:
     region: 6
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -3607,7 +3589,6 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -3787,7 +3768,6 @@ MonoBehaviour:
     region: 7
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -4119,7 +4099,6 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -4305,7 +4284,6 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -4506,7 +4484,6 @@ MonoBehaviour:
     region: 0
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -4744,7 +4721,6 @@ MonoBehaviour:
     region: 6
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -4930,7 +4906,6 @@ MonoBehaviour:
     region: 2
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -5114,7 +5089,6 @@ MonoBehaviour:
     region: 2
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -5301,7 +5275,6 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -5484,7 +5457,6 @@ MonoBehaviour:
     region: 0
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -5676,7 +5648,6 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -5860,7 +5831,6 @@ MonoBehaviour:
     region: 6
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6045,7 +6015,6 @@ MonoBehaviour:
     region: 5
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6237,7 +6206,6 @@ MonoBehaviour:
     region: 5
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6437,7 +6405,6 @@ MonoBehaviour:
     region: 7
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6626,7 +6593,6 @@ MonoBehaviour:
     region: 6
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6809,7 +6775,6 @@ MonoBehaviour:
     region: 4
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -6992,7 +6957,6 @@ MonoBehaviour:
     region: 0
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 2052793
@@ -7184,7 +7148,6 @@ MonoBehaviour:
     region: 4
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -7366,7 +7329,6 @@ MonoBehaviour:
     region: 2
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -7650,7 +7612,6 @@ MonoBehaviour:
     region: 1
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -7833,7 +7794,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -8010,7 +7970,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -8206,7 +8165,6 @@ MonoBehaviour:
     region: 2
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -8393,7 +8351,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -8729,7 +8686,6 @@ MonoBehaviour:
     region: 6
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -8918,7 +8874,6 @@ MonoBehaviour:
     region: 7
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -9188,7 +9143,6 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -9439,7 +9393,6 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -9622,7 +9575,6 @@ MonoBehaviour:
     region: 5
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -9817,7 +9769,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10012,7 +9963,6 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10201,7 +10151,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10414,7 +10363,6 @@ MonoBehaviour:
     region: 1
     player: 4
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10602,7 +10550,6 @@ MonoBehaviour:
     region: 4
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10793,7 +10740,6 @@ MonoBehaviour:
     region: 2
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -10972,7 +10918,6 @@ MonoBehaviour:
     region: 1
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -11152,7 +11097,6 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -11336,7 +11280,6 @@ MonoBehaviour:
     region: 3
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -11516,7 +11459,6 @@ MonoBehaviour:
     region: 3
     player: 0
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -11705,7 +11647,6 @@ MonoBehaviour:
     region: 3
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -11892,7 +11833,6 @@ MonoBehaviour:
     region: 6
     player: 5
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -12076,7 +12016,6 @@ MonoBehaviour:
     region: 1
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -12269,7 +12208,6 @@ MonoBehaviour:
     region: 1
     player: 3
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -12552,7 +12490,6 @@ MonoBehaviour:
     region: 6
     player: 1
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -12741,7 +12678,6 @@ MonoBehaviour:
     region: 1
     player: 2
     moneyReward: 0
-  playerManager: {fileID: 0}
   oldColor:
     serializedVersion: 2
     rgba: 0
@@ -12897,8 +12833,8 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1330285380}
-  - {fileID: 187317798}
   - {fileID: 776070305}
+  - {fileID: 187317798}
   - {fileID: 1560827963}
   - {fileID: 1427951927}
   - {fileID: 344454954}
