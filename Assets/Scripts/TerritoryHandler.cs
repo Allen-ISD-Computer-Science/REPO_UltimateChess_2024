@@ -22,12 +22,40 @@ public class TerritoryHandler : MonoBehaviour
         sprite = GetComponent<SpriteRenderer>();
         sprite.color = startColor;
 
+        // Find the PlayerManager in the scene
         playerManager = FindObjectOfType<PlayerManager>();
         if (playerManager == null)
         {
             Debug.LogError("PlayerManager not found in the scene!");
         }
+
+        // Set the initial player assignment for the territory
+        switch (territory.player)
+        {
+            case Territory.Players.Player1:
+                player = 1;
+                break;
+            case Territory.Players.Player2:
+                player = 2;
+                break;
+            case Territory.Players.Player3:
+                player = 3;
+                break;
+            case Territory.Players.Player4:
+                player = 4;
+                break;
+            case Territory.Players.Player5:
+                player = 5;
+                break;
+            case Territory.Players.Player6:
+                player = 6;
+                break;
+            default:
+                player = 1; // Default to player 1 if no player assignment is specified
+                break;
+        }
     }
+
 
     void OnMouseEnter()
     {

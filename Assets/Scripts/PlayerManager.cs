@@ -9,11 +9,43 @@ public class PlayerManager : MonoBehaviour
     // Track player territories
     private Dictionary<int, List<TerritoryHandler>> playerTerritories = new Dictionary<int, List<TerritoryHandler>>();
     public List<int> eliminatedPlayers = new List<int>();
+    private bool hasInitialized = false;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        // Initialize player territories with initial assignments
+        InitializePlayerTerritories();
+    }
+
+    // Method to initialize player territories with initial assignments
+    void InitializePlayerTerritories()
+    {
+        // Find all TerritoryHandler components in the scene
+        TerritoryHandler[] territories = FindObjectsOfType<TerritoryHandler>();
+
+        foreach (var territory in territories)
+        {
+            int playerID = territory.player; // Get the player assigned to the territory
+            if (!playerTerritories.ContainsKey(playerID))
+            {
+                playerTerritories[playerID] = new List<TerritoryHandler>();
+            }
+            playerTerritories[playerID].Add(territory);
+        }
+
+        // Set initialization flag to true
+        hasInitialized = true;
+
+        // Check player status after initialization
+        CheckPlayerStatus();
+    }
+
 
     // Update territory ownership
     public void UpdateTerritoryOwnership(TerritoryHandler territory, int newPlayer)
     {
-        // Remove territory from previous player's list if it exists
+        // Remove territory from previous player's list
         foreach (var playerTerritoryList in playerTerritories.Values)
         {
             playerTerritoryList.Remove(territory);
@@ -30,6 +62,7 @@ public class PlayerManager : MonoBehaviour
         CheckPlayerStatus();
     }
 
+    // Mark player as eliminated
     public void MarkPlayerAsEliminated(int playerID)
     {
         if (!eliminatedPlayers.Contains(playerID))
@@ -42,11 +75,13 @@ public class PlayerManager : MonoBehaviour
         }
     }
 
+    // Check if player is eliminated
     public bool IsPlayerEliminated(int playerID)
     {
         return eliminatedPlayers.Contains(playerID);
     }
 
+    // Check player status
     public void CheckPlayerStatus()
     {
         int activePlayerCount = 6 - eliminatedPlayers.Count;
@@ -61,11 +96,22 @@ public class PlayerManager : MonoBehaviour
                 Debug.Log("Player " + playerID + " has been eliminated.");
             }
         }
-        
-        // Exactly 2 players left, change scene
-        if (activePlayerCount == 2 && SceneManager.GetActiveScene().name != "Chess")
+
+        Debug.Log("Active player count: " + activePlayerCount);
+
+        // Check if there are at least two active players remaining
+        if (activePlayerCount >= 2)
         {
-            SceneManager.LoadScene("Chess");
+            // At least two players left, check if the scene needs to be changed
+            if (activePlayerCount == 2 && SceneManager.GetActiveScene().name != "Chess")
+            {
+                SceneManager.LoadScene("Chess");
+            }
+        }
+        else
+        {
+            // Less than two players left, continue the game
+            Debug.Log("Waiting for more eliminations before changing scene.");
         }
     }
 }
